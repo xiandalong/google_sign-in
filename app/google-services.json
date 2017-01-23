@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "932698703722",
+    "project_id": "signinproject-156514"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932698703722:android:2183cf642ec7d9d8",
+        "android_client_info": {
+          "package_name": "com.example.xiandalong.google_sign_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932698703722-gu4t300b3u9hkd5ng8kv68b0l71pu4q6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xiandalong.google_sign_in",
+            "certificate_hash": "2159FBC8C9191BF8CF5888DB363DC9ED28930974"
+          }
+        },
+        {
+          "client_id": "932698703722-87itpulolnb7aq61mmutoaansg1lfa21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA4URHW5W_AeXcKOut7dDbty99J5h0zog"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
